@@ -3,12 +3,9 @@
 登入後可查看個人資料與發佈日誌。
 
 登入時可選擇Google登入或本地登入:  
-  
    ![登入](https://github.com/EllyLu/GoogleLoginSystem/assets/81409573/4c2d4e70-9cb3-45c0-a5b7-221b588549f9)
    
 若選擇Google登入會進入此畫面:
-
-
      ![google登入](https://github.com/EllyLu/GoogleLoginSystem/assets/81409573/5467ae97-b02e-4438-966d-1dd5e08cbd7c)
 登入成功後會自動導向個人檔案頁面:  
 
