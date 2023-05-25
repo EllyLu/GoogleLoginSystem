@@ -14,3 +14,6 @@
 
 點擊製作新的post即可新增日誌:  
 ![製作新的post](https://github.com/EllyLu/GoogleLoginSystem/assets/81409573/abd8f83e-7df2-4768-b18e-06e8b805c091)
+
+按下提交Post後導向個人檔案頁面，並顯示Post的內容:
+![發佈後的profile](https://github.com/EllyLu/GoogleLoginSystem/assets/81409573/8203f12a-16d4-4a6b-a26d-8f45f8f7f78b)
